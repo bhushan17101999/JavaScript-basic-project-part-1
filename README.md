@@ -1,12 +1,12 @@
-🧮 Calculator Project
-Overview
+**🧮 Calculator Project**
+**Overview**
 This is a simple calculator web application developed using HTML, CSS, and JavaScript. The project aims to provide a user-friendly interface for basic arithmetic calculations.
 
-Features
+**Features**
 User-Friendly Interface: The calculator has a clean and intuitive design, making it easy for users to perform calculations.
 Basic Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
 Responsive Design: The application is responsive, ensuring a seamless experience across various devices and screen sizes.
-Error Handling: Includes error handling to provide meaningful feedback to users in case of invalid inputs or calculations.
+**Error Handling:** Includes error handling to provide meaningful feedback to users in case of invalid inputs or calculations.
 Technologies Used
 HTML: Used for structuring the web page.
 CSS: Provides styles and layout for an aesthetically pleasing design.
